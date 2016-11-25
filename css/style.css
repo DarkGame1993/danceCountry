@@ -1,0 +1,227 @@
+.container-fluid, .container {
+    padding:0;
+}
+
+.header {
+    background: url("../img/header-background.png");
+}
+
+.header_logo img{
+    text-align: center;
+    margin:0 auto;
+}
+
+.navbar {
+    min-height:20px
+}
+
+.navbar-default {
+    background-color: transparent;
+    border:none;
+}
+
+.navbar a{
+    border-bottom:2px solid #fff;
+}
+
+.navbar-nav li a {
+    padding:0 15px;
+}
+
+.navbar a:hover, .navbar a:focus  {
+    border-bottom:2px solid #ff9c44;
+}
+
+.header_navigation, .header_navigation a {
+    font:600 18px/18px 'Panton', sans-serif;
+    color: #000;
+}
+
+.header_inc_call a{
+    font:normal 17px/17px 'RobotoBold', sans-serif;
+    padding:6px 0 6px 0;
+}
+
+.header_contacts {
+    font:20px/20px 'RobotoBold', sans-serif;
+}
+
+.header_partisipation h4 {
+    margin:0 auto;
+    font:700 25px/25px 'Panton',sans-serif;
+}
+
+.header_partisipation p {
+    font:normal 16px/16px 'Panton',sans-serif;
+}
+
+.header_partisipation {
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+.header_partisipation img {
+    border-radius: 25px;
+}
+
+.header_partisipation img:hover {
+    box-shadow: 2px 2px 2px;
+}
+
+.header_inc_call a {
+    color: #ff9c44;
+    border-bottom: 1px dashed;
+    letter-spacing:1px;
+}
+
+.header_contacts p  {
+    display: inline-block;
+    padding:0 0 10px 0;
+}
+
+
+.sprite_href {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+}
+
+.fb_sprite {
+    background: url('../img/sprite.png') 0 0;
+}
+
+.fb_sprite:hover {
+    background: url('../img/sprite.png') 0 32px;
+}
+
+.yotube_sprite {
+    background: url('../img/sprite.png') 32px 0;
+}
+
+.yotube_sprite:hover {
+    background: url('../img/sprite.png') 32px 32px;
+}
+
+.vk_sprite {
+    background: url('../img/sprite.png') 64px 0;
+}
+
+.vk_sprite:hover {
+    background: url('../img/sprite.png') 64px 32px;
+}
+
+.ok_sprite {
+    background: url('../img/sprite.png') 96px 0;
+}
+
+.ok_sprite:hover {
+    background: url('../img/sprite.png') 96px 32px;
+}
+
+.twitter_sprite {
+    background: url('../img/sprite.png') 128px 0;
+}
+
+.twitter_sprite:hover {
+    background: url('../img/sprite.png') 128px 32px;
+}
+
+.header_dance h1{
+    font:900 45px/45px 'Panton', sans-serif;
+    padding:50px 0 50px 0;
+    text-align: center;
+    color: #000;
+}
+
+.carousel {
+    height:232px;
+}
+
+.content_1_container {
+    margin-top:20px;
+    padding:0 0 20px 0;
+    border-bottom:1px solid #acacac;
+}
+
+.content_1_img {
+    padding:0;
+}
+
+.content_1_location h2{
+    margin:0 0 30px 0;
+    font:800 30px/30px 'Panton', sans-serif;
+}
+
+.content_1_location a {
+    font:normal 25px/25px 'Panton', sans-serif;
+    color: #61acec;
+}
+
+.content_1_location a:focus, a:hover {
+    color: #61acec;
+    text-decoration: underline;
+}
+
+.content_1_price {
+    padding:0;
+}
+
+.content_1_price img {
+    float: right;
+}
+
+.content_1_description {
+    padding-right:0;
+}
+
+.content_1_description p{
+    margin:30px 0 0 0;
+    font:normal 16px/16px 'Arial';
+}
+
+.content_1_description_location, .content_1_description_date {
+    display: inline-block;
+    padding-right:30px;
+}
+
+.content_1_container_last {
+    border:none;
+    padding-bottom:20px;
+}
+
+.footer {
+    padding:10px 0 10px 0;
+    background-color: #323c45;
+}
+
+.footer_logo {
+    padding:0;
+}
+
+.footer_info {
+    color: #fff;
+    font:normal 16px/16px 'Arial';
+    padding:30px 0 0 0;
+}
+
+.footer_info div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer_contacts {
+    padding:20px 0 0 0;
+    font:20px/20px 'RobotoBold', sans-serif;
+}
+
+.footer_contacts div {
+    float: right;
+}
+
+.footer_contacts p  {
+    color: #fff;
+    display: inline-block;
+    padding:0 0 10px 0;
+}
+
